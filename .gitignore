@@ -1,0 +1,25 @@
+# Gradle files
+.gradle/
+build/
+
+# Android Studio files
+.idea/
+*.iml
+
+# Java/Kotlin files
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.log
+*.hprof
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Project-specific ignores
+local.properties
+/.gradle/
+/captures/
